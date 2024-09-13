@@ -17,7 +17,7 @@ Fennec is an innovative Web3-based platform designed to transform the esports in
 
 ## 🛠️ Technologies & Tools
 - Languages: ![Solidity](https://img.shields.io/badge/-Solidity-333?style=flat&logo=solidity) ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-- Blockchain: ![solana](https://img.shields.io/badge/-Ethereum-333?style=flat&logo=ethereum) ![Web3](https://img.shields.io/badge/-Web3-333?style=flat&logo=web3.js)
+- Blockchain: ![solana](https://img.shields.io/badge/-solana-333?style=flat&logo=ethereum) ![Web3](https://img.shields.io/badge/-Web3-333?style=flat&logo=web3.js)
 - Frameworks: ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 - Other Tools: ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker) ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
